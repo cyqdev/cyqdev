@@ -5,7 +5,7 @@
 
 -  `底层码农` && `JAVA` && `全栈成长ing`
 - QQ：`961018171`
-- Blog： `不了`
+- Blog： `不献丑了`
 - 公众号：`暂无`
 
 [![cyqdev's github stats](https://github-readme-stats.vercel.app/api?username=cyqdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
